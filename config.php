@@ -1,8 +1,8 @@
 <?php
 /* Database credentials */
-define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
+define('DB_SERVER', '10.201.68.199');
+define('DB_USERNAME', 'phpcrud');
+define('DB_PASSWORD', '123');
 define('DB_NAME', 'hortmanns_db');
  
 /* Attempt to connect to MySQL database */
